@@ -13,7 +13,7 @@ public class ArrayProgram3
 			{
 				if (arr[i] == arr[j]) // checking if same element exists 
 				{
-					arr[j] = arr[l - 1]; // push same/duplicate element to end of array
+					arr[j] = arr[l - 1]; // copying/replacing the last element in place of the duplicate
 					l--;  // getting rid of last elements that are duplicate
 				}
 			}
