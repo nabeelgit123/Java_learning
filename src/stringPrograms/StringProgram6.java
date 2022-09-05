@@ -1,12 +1,6 @@
 package stringPrograms;
 
-/*Q6 Write a program which will take a string , start index and end index as parameters and will print the substring of the given string with both index inclusive. (Do not use inbuilt methods)
-Ex : public void printSubstring(String str, int startIndex, int endIndex)
-	{
-	…
-	}
-printSubstring(“This is Java Program”,5,11)
-Output = “is Java”
+/*Q6 Write a program to Convert a string to Array without using any inbuilt methods.
 */
 
 public class StringProgram6 
