@@ -2,11 +2,11 @@ package exceptionHandling;
 
 import java.util.Scanner;
 
-/*Q2  Write a program which will print “Program initiated..”, then accept a PhoneNumber from the user. 
+/*Q2  Write a program which will print â€œProgram initiated..â€, then accept a PhoneNumber from the user. 
 If the Number entered is not equal to 10 digit, then throw an Exception
-with a message “Number should be 10 digit”, Catch the Exception and print the message in the exception,
-and then the program should print “Program terminated.”
-If the Number is equal to 10 digit, then display the entered number and then print “Program Terminated.”
+with a message â€œNumber should be 10 digitâ€, Catch the Exception and print the message in the exception,
+and then the program should print â€œProgram terminated.â€
+If the Number is equal to 10 digit, then display the entered number and then print â€œProgram Terminated.â€
 
 */
 
@@ -20,7 +20,7 @@ public class Program2
 		{
 		if (len == 10)
 		{
-			String print = String.format("the no you  entered is %c" + s);
+			String print = String.format("the no you  entered is %s" , s);
 			System.out.println(print);
 		} 
 		else if (len > 10 || len < 10) 
