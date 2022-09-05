@@ -9,7 +9,7 @@ public class StringProgram2 {
 		int counter = 1;
 		String temp = x;
 		int length = temp.length();
-		if(temp.equals(" "))
+		
 		for (int i = 0; i < length; i++)
 		{
 			if (temp.charAt(i) == ' ' &&  temp.charAt(i + 1) != ' ') // since characters are in single quotes
