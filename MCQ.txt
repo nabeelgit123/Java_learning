@@ -1,0 +1,12 @@
+Q1 - ans=d
+
+Q2 - ans=c
+
+Q3 - ans=a
+Q4 ans=a
+Q5 ans=a
+Q6 ans=a
+Q7 ans=b
+Q8 ans=d
+Q9 ans=a
+Q10 ans=a
